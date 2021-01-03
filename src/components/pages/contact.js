@@ -28,7 +28,7 @@ export default function() {
                         <FontAwesomeIcon icon="envelope" />
                         </div>
                         <div className="text">
-                            chantayriggs@example.com
+                                gustavosalas@example.com
                         </div>
                     </div>
 
